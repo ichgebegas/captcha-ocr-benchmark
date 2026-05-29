@@ -1,0 +1,5 @@
+variant,rows,exact_matches,exact_match_rate,avg_edit_distance,avg_char_accuracy,length_5_count
+box_k5_soft_contrast,32,13,0.406250,1.343750,0.731250,32
+box_k5,32,9,0.281250,1.437500,0.712500,32
+box_k4,32,6,0.187500,1.812500,0.637500,32
+original,32,1,0.031250,3.281250,0.343750,32

@@ -1,0 +1,3 @@
+variant,total,exact,exact_rate,avg_edit_distance,avg_char_accuracy
+box_k5_soft_contrast,10,1,0.100000,3.000000,0.400000
+original,10,0,0.000000,3.600000,0.280000
